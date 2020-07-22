@@ -1,16 +1,18 @@
-##SELECT statement
+## SELECT statement
 * To see a subset of rows, columns, or both
 * Result of the query is called a result set, lists rows that contain the same number of columns
 * SELECT column_2 column_3 column_4 FROM table_employees
 ![](SELECT%20example.jpg)
-##Optional clauses
+
+
+## Optional clauses
 * WHERE - where certain rows contain a specified value
 * GROUP BY - Request only certain rows from a table
 * HAVING - Use a column identifier to organize the data in the result set into groups Use in conjunction with GROUP BY to specify which groups to include in results
 * ORDER BY - Sort query results by one or more columns and in ascending or descending order 
 Square brackets indicate optional parameters, * is used as a wildcard (all columns)
 
-##SQL statement guidelines
+## SQL statement guidelines
 Separate words with at least once space or line break.
 Keywords can be uppercase or lowercase.  
 Limit table column and index names so that they 
@@ -23,7 +25,7 @@ Use case sensitivity just in case (since it depends on the SQL implementation). 
 -- to comment, can be a standalone line or after a line  
 /* and */ for multi-line comments
 
-##Conditional searches
+## Conditional searches
 Use the previously mentioned optional clauses  
 Process goes like: query > search for records > retrieve records > display records
 
@@ -31,13 +33,13 @@ Clauses can include arithmetic, comparator, and logical operators (ex. +, -, * >
 
 Arithmetic operators can also be applied to data that's being returned (ex. take temperature value and convert to F or C with a forumla)
 
-##Aliasing
+## Aliasing
 SELECT (columns + calculation) AS alias
 Creates a new column with the specified calculation with the title of the given alias
 ![](Alias%20examples.jpg)  
 AS keyword is optional. Can use single quotes to create a column name with spaces
 
-##Logical operators
+## Logical operators
 ALL - TRUE if all following conditions must be met  
 AND - TRUE if both sides are TRUE  
 ANY - TRUE if any of the following conditions can be met  
@@ -51,7 +53,7 @@ NOT - Inverts the logic TRUE <-> FALSE
 ![](Operator%20precedence.jpg)  
 Parenthesis can group logic together similarly to arithmetic, overriding the above.
 
-##NULL
+## NULL
 TRUE AND NULL = FALSE
 TRUE OR NULL = TRUE
 NULL AND NULL = FALSE
@@ -61,16 +63,17 @@ FALSE OR NULL = UNKNOWN
 
 NULL does not equal NULL. IS NULL returns TRUE if the value is NULL.
 
-##[Wildcards](https://www.w3schools.com/sql/sql_wildcards.asp)
+## [Wildcards](https://www.w3schools.com/sql/sql_wildcards.asp)
 Used with LIKE operator. 
 '%hello%' returns entries that contain 'hello' anywhere in them 
 Upperof/Lowerof - functions that convert what's inside their following parentheses  
 Can use REGEXP keyword to use regular expression
 
-#Functions
+# Functions
 Just like functions in other languages. FUNCTION_NAME(parameter1, parameter2)  
-Can nest functions like other languages.
-##Aggregate Functions
+Can nest functions like other languages.  
+
+## Aggregate Functions
 Self explanatory in terms of what they do.
 COUNT  
 AVG  
