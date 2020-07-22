@@ -3,6 +3,8 @@
 * Result of the query is called a result set, lists rows that contain the same number of columns
 * SELECT column_2 column_3 column_4 FROM table_employees
 ![](SELECT%20example.jpg)
+
+
 ## Optional clauses
 * WHERE - where certain rows contain a specified value
 * GROUP BY - Request only certain rows from a table
@@ -51,7 +53,7 @@ NOT - Inverts the logic TRUE <-> FALSE
 ![](Operator%20precedence.jpg)  
 Parenthesis can group logic together similarly to arithmetic, overriding the above.
 
-##NULL
+## NULL
 TRUE AND NULL = FALSE
 TRUE OR NULL = TRUE
 NULL AND NULL = FALSE
@@ -61,16 +63,17 @@ FALSE OR NULL = UNKNOWN
 
 NULL does not equal NULL. IS NULL returns TRUE if the value is NULL.
 
-##[Wildcards](https://www.w3schools.com/sql/sql_wildcards.asp)
+## [Wildcards](https://www.w3schools.com/sql/sql_wildcards.asp)
 Used with LIKE operator. 
 '%hello%' returns entries that contain 'hello' anywhere in them 
 Upperof/Lowerof - functions that convert what's inside their following parentheses  
 Can use REGEXP keyword to use regular expression
 
-#Functions
+# Functions
 Just like functions in other languages. FUNCTION_NAME(parameter1, parameter2)  
-Can nest functions like other languages.
-##Aggregate Functions
+Can nest functions like other languages.  
+
+## Aggregate Functions
 Self explanatory in terms of what they do.
 COUNT  
 AVG  
