@@ -48,13 +48,34 @@ Ranks after grouping and partition, AS alias to 'Ntile'
 
 ![](https://cdn.sqlservertutorial.net/wp-content/uploads/SQL-Server-NTILE-Function-with-5-groups.png)
 
-[Top n keyword](https://www.w3schools.com/sql/sql_top.asp)  
-top n shows the top number of rows meeting the criteria 
-TOP, LIMIT, and ORACLE do the same thing different ways 
+[Top n keyword]
+The SELECT TOP clause is used to specify the number of records to return.
+ 
+Not all database systems support the SELECT [TOP](https://www.w3schools.com/sql/sql_top.asp) clause. MySQL supports the LIMIT clause to select a limited number of records, while Oracle uses ROWNUM.
+TOP, LIMIT, and ROWNUM  have the same results with different syntax.
+ 
+Because the order of rows stored in a table is unspecified, the SELECT TOP statement should be used in conjunction with the ORDER BY clause. The result set will be limited to the first N number of ordered rows.
+
+Lets do some [examples](https://www.mysqltutorial.org/tryit/query/mysql-limit/#3)  
 
 [Group_by](https://www.sqlservertutorial.net/sql-server-basics/sql-server-group-by)
 
-The GROUP BY clause allows you to arrange the rows of a query in groups. The groups are determined by the columns that you specify in the GROUP BY clause.
+The GROUP BY clause allows you to arrange the rows of a query into groups. The groups are determined by the columns that are specify in the GROUP BY clause.   
+
+Multiple columns can be listed in the GROUPBY clause.  A group is produced for each combination of columns listed in the GROUP BY clause.
+
+*SELECT customer_id, YEAR (order_date) order_year
+FROM sales.orders
+WHERE customer_id IN (1, 2)
+GROUP BY customer_id, YEAR (order_date) 
+ORDER BY customer_id;*    
+                  
+![](https://cdn.sqlservertutorial.net/wp-content/uploads/SQL-Server-GROUP-BY-clause.png)
+![](https://cdn.sqlservertutorial.net/wp-content/uploads/SQL-Server-GROUP-BY-clause-example.png)
+
+The GROUP BY statement is often used with aggregate functions (COUNT, MAX, MIN, SUM, AVG) to generate summary reports. 
+The GROUP BY clause arranges rows into groups and an aggregate function returns the summary for each [group.](http://dba.fyicenter.com/faq/mysql/Use-Multiple-Columns-in-GROUP-BY.html)
+
 
 [Having clause](https://www.sqlservertutorial.net/sql-server-basics/sql-server-having/)
 
