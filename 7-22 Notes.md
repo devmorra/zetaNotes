@@ -1,30 +1,39 @@
 # Organizing data
 
-####Sorting: Ascending Order
+#### Sorting: Ascending Order
 lowest value first 
 arranged in ascending order
 highest value last
-####Sorting: Descending Order
+#### Sorting: Descending Order
 Highest value first
 arranged in descending order
 lowest value last
 #### [ORDER BY Clause](https://www.w3schools.com/sql/sql_orderby.asp )
 order by clause entered at the end of the select statement
-####[Ranking functions](https://www.sqlservertutorial.net/sql-server-window-functions/sql-server-rank-function/)
+#### [Ranking functions](https://www.sqlservertutorial.net/sql-server-window-functions/sql-server-rank-function/)
 
-#####RANK() (placement) 
+##### RANK() (placement) 
 This gives you the ranking within your ordered partition. 
 Ties are assigned the same rank, with the next ranking(s) skipped. 
 Therefore, if you have one item at rank 1, have 3 items at rank 2, the next rank listed will be ranked 5.
+    
+    SELECT height, color
+    RANK() OVER (PARTITION BY color ORDER BY height DESC) height_rank
+    FROM stickmen
+    
 ![](7-22/Rank.png)
 
-#####DENSE_RANK() (value) 
+##### DENSE_RANK() (value) 
 This gives you the ranking within your ordered partition, but the ranks are consecutive in it. 
 Also, no ranks are skipped if there are ranks with multiple items.
 Therefore, if you have one item at rank 1, have 3 items at rank 2, the next rank listed will be ranked 3.
+
+    SELECT height, color
+    DENSE_RANK() OVER (PARTITION BY color ORDER BY height DESC) height_rank
+    FROM stickmen
 ![](7-22/Dense_rank.png)
 
-    rank() over (partition by deptno order by sal nulls first) r
+     rank() over (partition by deptno order by sal nulls first) r
 
     , dense_rank() over (partition by deptno order by sal nulls first) dr1
 
