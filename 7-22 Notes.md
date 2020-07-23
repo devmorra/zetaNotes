@@ -13,13 +13,23 @@ order by clause entered at the end of the select statement
 ####[Ranking functions](https://www.sqlservertutorial.net/sql-server-window-functions/sql-server-rank-function/)
 
 #####RANK() (placement) 
-This gives you the ranking within your ordered partition. Ties are assigned the same rank, with the next ranking(s) skipped. Therefore, if you have 3 items at rank 2, the next rank listed will be ranked 5.
+This gives you the ranking within your ordered partition. 
+Ties are assigned the same rank, with the next ranking(s) skipped. 
+Therefore, if you have one item at rank 1, have 3 items at rank 2, the next rank listed will be ranked 5.
 ![](7-22/Rank.png)
 
 #####DENSE_RANK() (value) 
-This gives you the ranking within your ordered partition, but the ranks are consecutive in it. Also, no ranks are skipped if there are ranks with multiple items.
+This gives you the ranking within your ordered partition, but the ranks are consecutive in it. 
+Also, no ranks are skipped if there are ranks with multiple items.
+Therefore, if you have one item at rank 1, have 3 items at rank 2, the next rank listed will be ranked 3.
 ![](7-22/Dense_rank.png)
 
+    rank() over (partition by deptno order by sal nulls first) r
+
+    , dense_rank() over (partition by deptno order by sal nulls first) dr1
+
+    , dense_rank() over (partition by deptno order by sal nulls last) dr2
+![https://intellipaat.com/community/11597/whats-the-difference-between-rank-and-denserank-functions-in-oracle](7-22/rankandense.png)
 ##### ROW_NUMBER() 
 labels the rows in order, AS alias to 'Row Number'
 
