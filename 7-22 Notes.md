@@ -48,7 +48,7 @@ Ranks after grouping and partition, AS alias to 'Ntile'
 
 ![](https://cdn.sqlservertutorial.net/wp-content/uploads/SQL-Server-NTILE-Function-with-5-groups.png)
 
-[Top n keyword]
+[Top n keyword]()
 The SELECT TOP clause is used to specify the number of records to return.
  
 Not all database systems support the SELECT [TOP](https://www.w3schools.com/sql/sql_top.asp) clause. MySQL supports the LIMIT clause to select a limited number of records, while Oracle uses ROWNUM.
