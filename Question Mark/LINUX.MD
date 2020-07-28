@@ -1,3 +1,73 @@
+##Linux L1 - v1
+###Question 1 of 7
+What is the Linux operating system is made up of? Select three responses.
+
+ 	Configuration Files
+ 	Daemons
+ 	Kernel
+ 	Storage
+
+*Answer:  The Linux operating system is made up of configuration files, daemons, and kernel.*
+
+###Question 2 of 7
+All are major hardware subsystems EXCEPT:
+
+ 	Central Processing Unit (CPU)
+ 	Cloud
+ 	Random Access Memory (RAM)
+ 	Networking
+
+*Answer: The Cloud does not have major hardware subsystems.*
+
+###Question 3 of 7
+What type of page is the Linux documentation and help located?
+
+ 	Doc page
+ 	Help page
+ 	Man page
+ 	Woman page
+
+*Answer: The Man page is where Linux documentation and help can be located.*
+
+###Question 4 of 7
+As a new Linux user, you find yourself consulting the man pages regularly to look up command options. 
+
+What allows you to review the man page for the hostname command?
+
+ 	hostname man
+ 	man hostname
+ 	man page host name
+ 	page man host name
+
+*Answer:  The man hostname allows you to review the man page for the hostname command.*
+
+###Question 5 of 7
+True or False. You have the option to choose between a graphical interface (GUI) or command line interface to set up a Linux web server.
+
+ 	True
+ 	False
+
+*Answer: You would choose a graphical user interface (GUI) if you are setting up a Linux web server.*
+
+###Question 6 of 7
+Which attribute applies to the Linux operating system?
+
+ 	Closed source
+ 	License-based
+ 	Only available for individual users
+ 	Open source
+
+*Answer: Open source is an attribute that applies to the Linux operating system.*
+
+###Question 7 of 7
+Which of these are major Linux distributions? Select three responses. 
+
+ 	CentOS Project
+ 	Cisco
+ 	Red Hat
+ 	Ubuntu
+
+*Answer: Those are major Linux distributions.
  
 ##Linux L2
 ###Question 1 of 7
