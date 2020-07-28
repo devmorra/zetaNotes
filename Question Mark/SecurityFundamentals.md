@@ -697,7 +697,7 @@ Which data center alternate processing concept is designed to spread processing 
 
 *Answer: Data centers are designed to spread processing among several operation centers and create a distributed architecture approach to redundancy.*
 
-####Question 7 of 7
+####Question 7 of 7 
 As malicious attacks increase, your head of security has decided to consider how the cloud can provide more rapid recovery from an outage. Which two cloud-based recovery strategies could you recommend to her?
 
 	Build a second data center
