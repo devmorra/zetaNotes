@@ -1,14 +1,14 @@
 ##Programming_v1
-#####Question 1 of 31:
+####Question 1 of 31:
 Which phrases align with the term automation, which is any technology that removes human interaction. Select three responses.
 
  	A system
  	A process
  	Customer service
  	Equipment
-*Answer: These phrases align with the term automation.*
+*Answer: A system, A process, Equipment*
 
-#####Question 2 of 31:
+####Question 2 of 31:
 What does the acronym IDE represent?
 
  	Integrated Development Environment
@@ -18,7 +18,7 @@ What does the acronym IDE represent?
 
 *Answer: IDE stands for Integrated Development Environment*
 
-#####Question 3 of 31:
+####Question 3 of 31:
 What is an Integrated Development Environment (IDE) used for? Select three responses.
  	
  	To build computers
@@ -30,7 +30,7 @@ What is an Integrated Development Environment (IDE) used for? Select three respo
 
 *Answer:  Integrated Development Environment (IDE) used to tell you what things you have spelled wrong, what things aren’t clear, and what syntax you have written incorrectly.*
 
-#####Question 4 of 31:
+####Question 4 of 31:
 Which correctly represents the cycle of programming?
 
  	Pace, Debug, Remove
@@ -49,7 +49,7 @@ Which correctly represents the cycle of programming?
 
 *Answer:  The sequence of steps running program performs is an execution path.*
 
-####Question 6 of 31: 
+####Question 6 of 31:
 Git/GitHub are examples of:
 
  	A complex system
@@ -90,7 +90,7 @@ What software engineering culture and practice aims at unifying software develop
 
 *Answer:  DevOps is the software engineering culture and practice that aims at unifying software development and software operation.
 
-#####Question 10 of 31: 
+####Question 10 of 31: 
 True or False. DevOps is often trial and error. It is okay, even encouraged, to make mistakes in DevOps. Repetition and practice are the prerequisites to mastery.
 
  	True
@@ -98,7 +98,7 @@ True or False. DevOps is often trial and error. It is okay, even encouraged, to 
 
 *Answer: Dev Ops is often trial and error. It is okay, even encouraged, to make mistakes in DevOps. Repetition and practice are the prerequisites to mastery.
 
-#####Question 11 of 31:
+####Question 11 of 31:
 What is DevOps meant to do?
 
  	Bridge and eliminate specialized individual work
@@ -108,7 +108,7 @@ What is DevOps meant to do?
 
 Answer: DevOps is meant to bridge and eliminate specialized individual work.
 
-#####Question 12 of 31:
+####Question 12 of 31:
 What solves the issue of performing the same tasks over and over again?
 
  	Automation
@@ -118,7 +118,7 @@ What solves the issue of performing the same tasks over and over again?
 
 Answer:  Automation solves the issue of performing the same tasks over and over again.
 
-#####Question 13 of 31:
+####Question 13 of 31:
 Which is an extension of Continuous Integration (CI)?
 
  	Blu-ray
@@ -128,7 +128,7 @@ Which is an extension of Continuous Integration (CI)?
 
 Answer: A CD is an extension of Continuous Integration (CI).
 
-#####Question 14 of 31:
+####Question 14 of 31:
 What are the parts of the CI/CD pipeline? Select two responses.
 
  	Continuous Delivery
@@ -138,7 +138,7 @@ What are the parts of the CI/CD pipeline? Select two responses.
 
 Answer:  Continuous Delivery and Continuous Integration are the parts of the CI/CD pipeline.
 
-#####Question 15 of 31:
+####Question 15 of 31:
 As an up and coming developer, your team gets together on a weekly basis to redesign a portion of a larger project and release the previously built and tested version. What type of development methodology is this most like?
 
  	Agile
@@ -148,7 +148,7 @@ As an up and coming developer, your team gets together on a weekly basis to rede
 
 Answer:  The development methodology is most like agile.
 
-#####Question 16 of 31:
+####Question 16 of 31:
 In the company X, your CEO Mr. Y has communicated to the entire company that he is totally dependent on the use of collaboration and reinforces everyone's right to bring up ideas to help build the company. What does this message support?
 
  	Adhocratic Culture
@@ -158,8 +158,7 @@ In the company X, your CEO Mr. Y has communicated to the entire company that he 
 
 Answer:  The message supports the Clan Culture.
 
-#####Question
-17 of 31:
+####Question 17 of 31:
 What term is used to describe the process of managing and provisioning computer data centers through machine-readable definition files?
 
  	Infrastructure as Code (IaC)
@@ -169,8 +168,7 @@ What term is used to describe the process of managing and provisioning computer 
 
 Answer:  Infrastructure as Code (IaC) is the term used to describe the process of managing and provisioning computer data centers through machine-readable definition files.
 
-#####Question
-18 of 31:
+####Question 18 of 31:
 What is the application Terraform used for?
 
  	Infrastructure deployment and management
@@ -180,7 +178,7 @@ What is the application Terraform used for?
 
 Answer:  Terraform is used for infrastructure deployment and management.
 
-#####Question 19 of 31:
+####Question 19 of 31:
 True Or False: Amazon Elastic Compute Cloud (EC2) is an example of Infrastructure as as Service (IaaS).
 
  	True
@@ -188,8 +186,9 @@ True Or False: Amazon Elastic Compute Cloud (EC2) is an example of Infrastructur
 
 Answer:  Amazon Elastic Compute Cloud (EC2) is an example of Infrastructure as as Service (IaaS).
 
-#####Question 20 of 31:
+####Question 20 of 31:
 All are uses of Configuration Management EXCEPT:
+
  	Finding the errors made and who was involved with them
  	Identifying which developer should be removed from the team
  	Tracking versions of the code as they are developed
@@ -197,7 +196,7 @@ All are uses of Configuration Management EXCEPT:
 
 Answer:  Identifying which developer should be removed from the team are uses of Configuration Management.
 
-#####Question 21 of 31:
+####Question 21 of 31:
 Which statements about Configuration Planning are correct? Select three responses.
 
  	Configuration Planning does not determine how progress will be tracked and reported
@@ -205,9 +204,11 @@ Which statements about Configuration Planning are correct? Select three response
  	Configuration Planning is a document that defines division of responsibilities in a project
  	Configuration Planning includes procedural steps that will be accomplished throughout the development process
 
-Answer: One of those statements is not about Configuration Planning.
+Answer: Configuration Planning identifies what extra training that will be required to complete the project
+Configuration Planning is a document that defines division of responsibilities in a project
+Configuration Planning includes procedural steps that will be accomplished throughout the development process.
 
-#####Question 22 of 31:
+####Question 22 of 31:
 At your current development team, your manager implements a revision system to manage revision approvals. What part of configuration management deals with this?
 
  	Configuration verification and audit
@@ -217,7 +218,7 @@ At your current development team, your manager implements a revision system to m
 
 Answer: The part of configuration management that deals with this is configuration control.
 
-#####Question 23 of 31:
+####Question 23 of 31:
 What type of tools are used to find out what is going on behind the scenes, since they track what resources are being used and by which programs?
 
  	Checking
@@ -227,7 +228,7 @@ What type of tools are used to find out what is going on behind the scenes, sinc
 
 Answer:  Monitoring is a type of tool to find out what is going on behind the scenes.
 
-#####Question 24 of 31:
+####Question 24 of 31:
 Which of these sets includes different types of DevOps tools?
 
  	Log Monitoring Tools, System Monitoring Tools, Build and Test Tools, Deployment and Configuration Tools
@@ -237,7 +238,7 @@ Which of these sets includes different types of DevOps tools?
 
 Answer:  Log Monitoring Tools, System Monitoring Tools, Build and Test Tools, Deployment and Configuration Tools are all DevOps tools.
 
-#####Question 25 of 31:
+####Question 25 of 31:
 What does a debugger refer to?
 
  	A pesticide
@@ -247,7 +248,7 @@ What does a debugger refer to?
 
 Answer:  The debugger refers to a tool or set of tools that allow developers to find errors in code.
 
-#####Question 26 of 31:
+####Question 26 of 31:
 Which are accurate descriptions of Software Testing? Select three responses.
 
  	Tries to find errors quickly
@@ -255,9 +256,12 @@ Which are accurate descriptions of Software Testing? Select three responses.
  	During testing, it may be discovered that a key component of code is missing
  	Should only be done the day before delivering a project
 
-Answer:  Those are accurate descriptions of software testing.
+Answer:  Tries to find errors quickly,
+Tries to find deficiencies in the code,
+During testing - it may be discovered that a key component of code is missing
 
-#####Question 27 of 31:
+
+####Question 27 of 31:
 Imagine that you have written the perfect, bug-free code. Now imagine taking it to the people who hired you to write it and they tell you it is not what they wanted. 
 Which of the Seven Principles of Software Testing is represented by the scenario?
 
@@ -268,7 +272,7 @@ Which of the Seven Principles of Software Testing is represented by the scenario
 
 Answer:  Absence of error – fallacy is represented by the scenario.
 
-#####Question 28 of 31:
+####Question 28 of 31:
 In your new position as an entry level developer, you were asked to debug a piece of code from a previous developer's work. The original source code was written in the C language. Which tool would best suit your current job?
 
  	Electric Cloud
@@ -278,7 +282,7 @@ In your new position as an entry level developer, you were asked to debug a piec
 
 Answer: GNU Project Debugger (GDB) is the tool best suited for the current job.
 
-#####Question 29 of 31:
+####Question 29 of 31:
 You have been using the python debugger only a few days now. The current code has executed a few functions and you are interested in seeing which functions have been called. Select the most appropriate command to use to get this information.
 
  	Backtrace or "bt"
@@ -288,7 +292,7 @@ You have been using the python debugger only a few days now. The current code ha
 
 Answer:  Backtrace or "bt" is the most appropriate command to use to get this information.
 
-#####Question 30 of 31:
+####Question 30 of 31:
 True or False. Orchestration is the process of automation on a larger scale whereas Automation deals with two process(es) at a time.
 
  	True
@@ -296,7 +300,7 @@ True or False. Orchestration is the process of automation on a larger scale wher
 
 *Answer: Automation is the process of automation on a larger scale whereas Orchestration deals with two process(es) at a time.*
 
-#####Question 31 of 31:
+####Question 31 of 31:
 What might your team lead and manager request that you conduct to correct style and logic errors of another programmer's work to ensure forward progress is being made on your new project?
 
  	Control

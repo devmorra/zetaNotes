@@ -1,5 +1,5 @@
 ##Linux L1 - v1
-###Question 1 of 7
+####Question 1 of 7
 What is the Linux operating system is made up of? Select three responses.
 
  	Configuration Files
@@ -9,7 +9,7 @@ What is the Linux operating system is made up of? Select three responses.
 
 *Answer:  The Linux operating system is made up of configuration files, daemons, and kernel.*
 
-###Question 2 of 7
+####Question 2 of 7
 All are major hardware subsystems EXCEPT:
 
  	Central Processing Unit (CPU)
@@ -19,7 +19,7 @@ All are major hardware subsystems EXCEPT:
 
 *Answer: The Cloud does not have major hardware subsystems.*
 
-###Question 3 of 7
+####Question 3 of 7
 What type of page is the Linux documentation and help located?
 
  	Doc page
@@ -29,7 +29,7 @@ What type of page is the Linux documentation and help located?
 
 *Answer: The Man page is where Linux documentation and help can be located.*
 
-###Question 4 of 7
+####Question 4 of 7
 As a new Linux user, you find yourself consulting the man pages regularly to look up command options. 
 
 What allows you to review the man page for the hostname command?
@@ -41,7 +41,7 @@ What allows you to review the man page for the hostname command?
 
 *Answer:  The man hostname allows you to review the man page for the hostname command.*
 
-###Question 5 of 7
+####Question 5 of 7
 True or False. You have the option to choose between a graphical interface (GUI) or command line interface to set up a Linux web server.
 
  	True
@@ -49,7 +49,7 @@ True or False. You have the option to choose between a graphical interface (GUI)
 
 *Answer: You would choose a graphical user interface (GUI) if you are setting up a Linux web server.*
 
-###Question 6 of 7
+####Question 6 of 7
 Which attribute applies to the Linux operating system?
 
  	Closed source
@@ -59,7 +59,7 @@ Which attribute applies to the Linux operating system?
 
 *Answer: Open source is an attribute that applies to the Linux operating system.*
 
-###Question 7 of 7
+####Question 7 of 7
 Which of these are major Linux distributions? Select three responses. 
 
  	CentOS Project
@@ -67,10 +67,10 @@ Which of these are major Linux distributions? Select three responses.
  	Red Hat
  	Ubuntu
 
-*Answer: Those are major Linux distributions.
+*Answer: CentOS Project, Red Hat, Ubuntu Those are major Linux distributions.
  
 ##Linux L2
-###Question 1 of 7
+####Question 1 of 7
 What is the command syntax of Linux is composed of?
  Select three responses.
  
@@ -81,7 +81,7 @@ What is the command syntax of Linux is composed of?
 
 *Answer: The command syntax of Linux is composed of an argument, command, and option.*
 
-###Question 2 of 7
+####Question 2 of 7
 What is the default shell called that provides command prompt?
 
  	Bat
@@ -91,7 +91,7 @@ What is the default shell called that provides command prompt?
 
 *Answer: The default shell is called the Bash.*
 
-###Question 3 of 7
+####Question 3 of 7
 Which key automatically completes commands and file/directory names in Bash?
 
  	CTRL
@@ -101,7 +101,7 @@ Which key automatically completes commands and file/directory names in Bash?
 
 *Answer: TAB is the key that automatically completes commands and file/directory names in Bash.*
 
-###Question 4 of 7
+####Question 4 of 7
 Which command will display the account you are logged in as?
 
  	date
@@ -111,7 +111,7 @@ Which command will display the account you are logged in as?
 
 *Answer: The command whoami will display the account you are logged in.*
 
-###Question 5 of 7
+####Question 5 of 7
 Which command will display the previous commands if you make a mistake in a command prompt?
 
  	cal
@@ -121,7 +121,7 @@ Which command will display the previous commands if you make a mistake in a comm
 
 *Answer: The history command will display previous comments in the case of a mistake in command prompts.*
 
-###Question 6 of 7
+####Question 6 of 7
 You need to remove a sensitive password that was used as a command argument from the history file in bash. 
 
 Where is the history file typically located?
@@ -133,7 +133,7 @@ Where is the history file typically located?
 
 *Answer: The history file is typically located as /home/<username>/.bash_history.*
 
-###Question 7 of 7
+####Question 7 of 7
 You are going to add data from a file called addresses.csv and need to know how many lines are present in the file. 
 What command should you use?
 
@@ -145,7 +145,7 @@ What command should you use?
 *Answer: The command you should use is wc -l addresses.csv.
  
 ##Linux L3
-###Question 1 of 6
+####Question 1 of 6
 What is everything in Linux composed of?
 
  	Documents
@@ -155,7 +155,7 @@ What is everything in Linux composed of?
 
 *Answer: Files are what Linux is comprised.*
 
-###Question 2 of 6
+####Question 2 of 6
 Which attributes apply to Linux file names and extensions?
  Select three responses.
  
@@ -164,9 +164,11 @@ Which attributes apply to Linux file names and extensions?
  	Must be unique within the directory
  	Must contain a / or spaces
 
-*Answer: Those attributes apply to Linux file names and extensions.*
+*Answer:Is case sensitive
+Extensions are optional and not necessarily mapped to applications
+Must be unique within the directory*
 
-###Question 3 of 6
+####Question 3 of 6
 What is the function of the /etc directory?
 
  	Configuration files
@@ -176,7 +178,7 @@ What is the function of the /etc directory?
 
 *Answer: Configuration files are the function of the /etc directory.*
 
-###Question 4 of 6
+####Question 4 of 6
 Which command displays the absolute path to your current location in the file system?
 
  	cat
@@ -186,7 +188,7 @@ Which command displays the absolute path to your current location in the file sy
 
 *Answer: The command pwd displays the absolute path to you current location in the file system.*
 
-###Question 5 of 6
+####Question 5 of 6
 Which command changes your current working directory to another directory?
 
  	cd
@@ -196,7 +198,7 @@ Which command changes your current working directory to another directory?
 
 *Answer: The command cd changes the current working directory to another directory.*
 
-###Question 6 of 6
+####Question 6 of 6
 You need to see a complete list of the log file names. What command would you use?
 
  	list -names /var/log
@@ -207,7 +209,7 @@ You need to see a complete list of the log file names. What command would you us
 *Answer: The command to see a complete list of log file names is ls -la /var/log.
  
 ##Linux L4
-###Question 1 of 7
+####Question 1 of 7
 What is a value enclosed in to force Bash to recognize a space?
 
  	double commas
@@ -217,7 +219,7 @@ What is a value enclosed in to force Bash to recognize a space?
 
 *Answer: Double quotes is the value enclosed in that forces Bash to recognize a space.*
 
-###Question 2 of 7
+####Question 2 of 7
 What three types of wild card characters does Bash recognize?
  Select three responses.
  
@@ -229,7 +231,7 @@ What three types of wild card characters does Bash recognize?
 *Answer: The three types of wild card characteristics that Bash recognizes is ?
 , &, and [ ].*
 
-###Question 3 of 7
+####Question 3 of 7
 Which command filters out repeated lines in a file?
 
  	awk
@@ -239,7 +241,7 @@ Which command filters out repeated lines in a file?
 
 *Answer: The command uniq filters out repeated lines in a file.*
 
-###Question 4 of 7
+####Question 4 of 7
 Which redirector overwrites existing file content with no warning?
 
  	<
@@ -249,7 +251,7 @@ Which redirector overwrites existing file content with no warning?
 
 *Answer: The redirector > overwrites existing file content without warning.*
 
-###Question 5 of 7
+####Question 5 of 7
 What variable can be set to prevent the output redirector to overwrite an existing file with no warning?
 
  	pipefail
@@ -259,7 +261,7 @@ What variable can be set to prevent the output redirector to overwrite an existi
 
 *Answer: The variable noclobber can be set to prevent the output redirector to overwrite an existing file without warning.*
 
-###Question 6 of 7
+####Question 6 of 7
 You are troubleshooting an issue and want to check the log files for any failures. Which command syntax would display any secure log files containing the word "fail" for you?
 
  	grep fail /var/log/secure
@@ -269,7 +271,7 @@ You are troubleshooting an issue and want to check the log files for any failure
 
 *Answer: The command syntax is grep fail /var/log/secure that would display any secure log files containing the word "fail" for you.*
 
-###Question 7 of 7
+####Question 7 of 7
 As you review the log files, you notice several duplicate entries. It would be helpful if you could remove or filter out the duplicates.
 Which commands could help you accomplish this task?
  Select two responses.
@@ -282,7 +284,7 @@ Which commands could help you accomplish this task?
 *Answer: The commands you would use are sort -u file.txt and uniq /var/log/secure.
  
 ##Linux L5
-###Question 1 of 7
+####Question 1 of 7
 What is the best practice for number of users per account?
 
  	1
@@ -292,7 +294,7 @@ What is the best practice for number of users per account?
 
 *Answer: The best practice for number of users per account is one.*
 
-###Question 2 of 7
+####Question 2 of 7
 Which statements apply to setting user passwords?
  Select three responses.
  
@@ -301,9 +303,11 @@ Which statements apply to setting user passwords?
  	The root user only has access to reset their own password.
  	Users can reset their own passwords.
 
-*Answer: Those statements apply to setting user passwords.*
+*Answer: Passwords must be entered twice.
+Passwords are set with the passwd command.
+Users can reset their own passwords.*
 
-###Question 3 of 7
+####Question 3 of 7
 All are data included in the / etc / group file EXCEPT:
 
  	GID
@@ -313,7 +317,7 @@ All are data included in the / etc / group file EXCEPT:
 
 *Answer: Unencrypted password is not included in the / etc / group.*
 
-###Question 4 of 7
+####Question 4 of 7
 Which access levels are granted to a standard user?
  Select three responses.
  
@@ -322,9 +326,12 @@ Which access levels are granted to a standard user?
  	Limited access to manage the system
  	Manage any account
 
-*Answer:  Those are the correct access levels that are granted to a standard user.*
+*Answer: Access any files given the right
+ permissions are active, 
+Control any files the user owns,
+ Limited access to manage the system*
 
-###Question 5 of 7
+####Question 5 of 7
 Which command allows full administrative privileges?
 
  	pseudo
@@ -334,7 +341,7 @@ Which command allows full administrative privileges?
 
 *Answer: The su command allows full administrative privileges.*
 
-###Question 6 of 7
+####Question 6 of 7
 You have been tasked with updating some user accounts. For this next account, you need to add a full name comment on a the Julia Martinez user and also specify an expiration date of Dec 31, 2021.
 Which commands could you use to accomplish these tasks?
  Select two responses.
@@ -347,7 +354,7 @@ Which commands could you use to accomplish these tasks?
 
 *Answer: The commands are usermod -c "julia martinez" jmartinez and usermod -e 2021-12-31 jmartinez.*
 
-###Question 7 of 7
+####Question 7 of 7
 A few weeks later, you find out a user named Julia Martinez has moved on to another company and her account needs to be deleted.
 Which command would you use to complete this task?
 
@@ -359,7 +366,7 @@ Which command would you use to complete this task?
 *Answer: The command would be userdel jmartinez.*
  
 ##Linux L6
-###Question 1 of 7
+####Question 1 of 7
 What modes does Linux use to configure permissions?
  Select two responses.
  
@@ -370,7 +377,7 @@ What modes does Linux use to configure permissions?
 
 *Answer: Absolute and symbolic are the modes ##Linux uses to configure permissions.*
 
-###Question 2 of 7
+####Question 2 of 7
 Which three permissions does the ls-l command output?
  Select three responses.
  
@@ -381,7 +388,7 @@ Which three permissions does the ls-l command output?
 
 *Answer: Group, other, and user are the three permissions that ls-l command outputs.*
 
-###Question 3 of 7
+####Question 3 of 7
 What command is used to set permissions on files and directories?
 
  	awk
@@ -391,7 +398,7 @@ What command is used to set permissions on files and directories?
 
 *Answer: The command to set permissions on files and directories is chmod.*
 
-###Question 4 of 7
+####Question 4 of 7
 Which command is used to change the owner or group for a file or directory?
 
  	chown
@@ -401,7 +408,7 @@ Which command is used to change the owner or group for a file or directory?
 
 *Answer: The command to change the owner or group for a file or director is chown.*
 
-###Question 5 of 7
+####Question 5 of 7
 Which are best practices for permissions?
  Select three responses.
  
@@ -410,7 +417,9 @@ Which are best practices for permissions?
  	Principle of most permissions
  	Limit file names to alphanumeric characters, dots, and dashes.
 
-*Answer: One of those are not a best practice for permissions.*
+*Answer: Do not use chmod777, which grants read, write and execute permissions to all users
+Principle of least permissions
+Limit file names to alphanumeric characters, dots, and dashes.*
 
 ### Question 6 of 7
 You have been asked to add group write permissions to file 1. 
@@ -423,7 +432,7 @@ What command would allow you to do this in symbolic mode?
 
 *Answer: The chmod g+w file 1 command would allow you to do this in symbolic mode.*
 
-###Question 7 of 7
+####Question 7 of 7
 You have also been asked to change the owner of a file, named file 1, to a user named Julia Martinez. What command allows you to do this?
 
  	chg file 1 jmartinez
@@ -434,7 +443,7 @@ You have also been asked to change the owner of a file, named file 1, to a user 
 *Answer: The command chown jmartinez file 1 to change the file owner.*
 
 ##Linux L7 - v1*
-###Question 1 of 7
+####Question 1 of 7
 What is the default text editor for virtually all Linux distributions?
 
  	Lim
@@ -444,7 +453,7 @@ What is the default text editor for virtually all Linux distributions?
 
 *Answer:  Vim is the default text editor for virtually all Linux distributions.*
 
-###Question 2 of 7
+####Question 2 of 7
 Which mode does Vim use?
  Select three responses.
 
@@ -455,7 +464,7 @@ Which mode does Vim use?
 
 *Answer:  Command, insert, and execute are all modes Vim uses.*
 
-###Question 3 of 7
+####Question 3 of 7
 All are help options in Vim EXCEPT:
 
  	k
@@ -465,7 +474,7 @@ All are help options in Vim EXCEPT:
 
 *Answer:  Nano is not a help option in Vim.*
 
-###Question 4 of 7
+####Question 4 of 7
 Where can you see common nano commands?
 
  	Bottom of the screen
@@ -475,7 +484,7 @@ Where can you see common nano commands?
 
 *Answer:  You can see nano commands at the bottom of the screen.*
 
-###Question 5 of 7
+####Question 5 of 7
 Which statements apply to the gedit text editor?
  Select three responses.
 
@@ -484,9 +493,11 @@ Which statements apply to the gedit text editor?
  	Menu buttons are available with gedit.
  	Only keyboard shortcut commands may be used with gedit.
 
-*Answer:  Those statements apply to the gedit text editor.*
+*Answer:  Gedit is a Graphical User Interface (GUI) text editor.
+Gedit is only available if the Graphical User Interface (GUI) is installed.
+Menu buttons are available with gedit.*
 
-###Question 6 of 7
+####Question 6 of 7
 You have been editing a text file using the insert mode in Vim. You are done editing and need to exit Insert mode and return to Command mode. What key would you press?
 
  	ENTER
@@ -496,7 +507,7 @@ You have been editing a text file using the insert mode in Vim. You are done edi
 
 *Answer:  ESC is the key you would press to return to command mode.*
 
-###Question 7 of 7
+####Question 7 of 7
 You are now ready to write the file you have been working with and exit Vim. What command would you use?
 
  	i
@@ -507,7 +518,7 @@ You are now ready to write the file you have been working with and exit Vim. Wha
 *Answer:  You should use the command :wq.
  
 ##Linux L8
-###Question 1 of 7
+####Question 1 of 7
 Which are system programs?
  Select three responses.
 
@@ -518,7 +529,7 @@ Which are system programs?
 
 *Answer:  A word processor is not a system program.*
 
-###Question 2 of 7
+####Question 2 of 7
 What do daemons, services, and programs consist of?
 
  	command
@@ -528,7 +539,7 @@ What do daemons, services, and programs consist of?
 
 *Answer: These all consist of process.*
 
-###Question 3 of 7
+####Question 3 of 7
 What command displays current processes?
 
  	nice
@@ -538,7 +549,7 @@ What command displays current processes?
 
 *Answer: The command that displays current processes is ps.*
 
-###Question 4 of 7
+####Question 4 of 7
 Which command displays processes in a tree structure to easily identify parent and child processes?
 
  	child
@@ -548,7 +559,7 @@ Which command displays processes in a tree structure to easily identify parent a
 
 *Answer: The command that displays processes in a tree structure to easily identify parent and child processes is pstree.*
 
-###Question 5 of 7
+####Question 5 of 7
 Which commands may administrators use to schedule services or scripts to run automatically at specified times?
  Select two responses.
 
@@ -559,7 +570,7 @@ Which commands may administrators use to schedule services or scripts to run aut
 
 *Answer: The commands administrators may use are at and cron.*
 
-###Question 6 of 7
+####Question 6 of 7
 You are experiencing a slower than expected response time on your Linux server and want to see all the processes that are running. 
 
 What command would you use?
@@ -571,7 +582,7 @@ What command would you use?
 
 *Answer: The command you would use is ps -ef.*
 
-###Question 7 of 7
+####Question 7 of 7
 You have located process 1233 that seems to be causing your slow response time and you want to stop the process. You have been unable to gracefully quit the vm and need to immediately kill the process instead. 
 What command would you use?
 
@@ -583,7 +594,7 @@ What command would you use?
 *Answer: The command you would use is kill -9 1233.*
 
 ##Linux L9 - v1
-###Question: 1 of 7
+####Question: 1 of 7
 What is the purpose of the ssh command?
 
  	Used to disable audio output
@@ -593,7 +604,7 @@ What is the purpose of the ssh command?
 
 *Answer: The purpose of the ssh command is to securely connect to remote server or system*
 
-###Question: 2 of 7
+####Question: 2 of 7
 Which are systemctl sub commands?  Select three responses.
  
  	disable
@@ -603,7 +614,7 @@ Which are systemctl sub commands?  Select three responses.
 
 *Answer: Disable, start, and status are all systemctl sub commands*
 
-###Question: 3 of 7
+####Question: 3 of 7
 Which top task category is for a child process whose parent process has been terminated?
 
  	Running
@@ -613,7 +624,7 @@ Which top task category is for a child process whose parent process has been ter
 
 *Answer: Zombie is a top task category that is for a child process whose parent process has been terminated*
 
-###Question: 4 of 7
+####Question: 4 of 7
 All are information displayed using the df command EXCEPT:
 
  	date
@@ -623,7 +634,7 @@ All are information displayed using the df command EXCEPT:
 
 *Answer: The information displayed is the date*
 
-###Question: 5 of 7
+####Question: 5 of 7
 You think that restarting the sshd program may solve your problem. What command would you enter to complete this task?
 
  	ctlsystem restart sshd
@@ -633,7 +644,7 @@ You think that restarting the sshd program may solve your problem. What command 
 
 *Answer: The command you would use is systemctl restart sshd*
 
-###Question: 6 of 7
+####Question: 6 of 7
 Where is memory utilization information viewed after running the top command?
 
  	Bottom of the page
@@ -643,7 +654,7 @@ Where is memory utilization information viewed after running the top command?
 
 *Answer: The memory utilization information viewed after running the top command can be found at the top of the page*
 
-###Question: 7 of 7
+####Question: 7 of 7
 You have been asked to troubleshoot a remote server. What command would allow you to securely connect to the remote server, assuming you are user03 on computer 15?
 
  	user03@computer15 ssh
@@ -654,7 +665,7 @@ You have been asked to troubleshoot a remote server. What command would allow yo
 *Answer: The command to use would be ssh user03@computer15.*
  
 ##Linux L10
-###Question 1 of 7
+####Question 1 of 7
 Which are use cases of the ping command?  Select two responses.
 
  	Determining the speed of connection
@@ -664,7 +675,7 @@ Which are use cases of the ping command?  Select two responses.
 
 *Answer: These two are cases of the ping command.*
 
-###Question 2 of 7
+####Question 2 of 7
 What are the results of the netstat command?  Select three responses.
 
  	Displays connection information
@@ -672,9 +683,11 @@ What are the results of the netstat command?  Select three responses.
  	Displays routing tables
  	Displays status of ports
 
-*Answer: All of those are results of the netstat command.*
+*Answer: Displays connection information
+Displays routing tables
+Displays status of ports*
 
-###Question 3 of 7
+####Question 3 of 7
 Which is the correct syntax for the telnet command?
 
  	telnet host port
@@ -684,7 +697,7 @@ Which is the correct syntax for the telnet command?
 
 *Answer: The correct syntax is telnet [host [port]].*
 
-###Question 4 of 7
+####Question 4 of 7
 Which are key services for networking troubleshooting?  Select three responses.
 
  	Firewall
@@ -694,7 +707,7 @@ Which are key services for networking troubleshooting?  Select three responses.
 
 *Answer: Firewall, network, Secure Shell (SSH) are key services for networking troubleshooting.*
 
-###Question 5 of 7
+####Question 5 of 7
 All are recommended troubleshooting steps EXCEPT:
 
  	Verify physical status (plugged in, on)
@@ -704,7 +717,7 @@ All are recommended troubleshooting steps EXCEPT:
 
 *Answer: All of these are recommended troubleshooting steps except Call your supervisor first.*
 
-###Question 6 of 7
+####Question 6 of 7
 You are trying to determine if a web server that hosts Linuxabc.com is connected. What command would you use?
 
  	chown Linuxabc.com
@@ -714,7 +727,7 @@ You are trying to determine if a web server that hosts Linuxabc.com is connected
 
 *Answer: The command is ping Linuxabc.com.*
 
-###Question 7 of 7
+####Question 7 of 7
 You have determined the web server for Linuxabc.com is connected and now want to learn how many hops the packets are taking to reach this destination. What command would you use?
 
  	ping Linuxabc.com
@@ -725,7 +738,7 @@ You have determined the web server for Linuxabc.com is connected and now want to
 *Answer: The command to use is traceroute Linuxabc.com.*
 
 ##Linux L11 - v1
-###Question 1 of 7
+####Question 1 of 7
 All are primary methods of managing software in Linux operating systems EXCEPT:
 
  	Blue Hat method
@@ -735,7 +748,7 @@ All are primary methods of managing software in Linux operating systems EXCEPT:
 
 *Answer: The Blue Hat method is not a primary method of managing software in Linux operating systems*
 
-###Question: 2 of 7
+####Question: 2 of 7
 What is the file extension for Red Hat software packages?
 
  	.com
@@ -745,7 +758,7 @@ What is the file extension for Red Hat software packages?
 
 *Answer: The file extension for Red Hat software packages is .rpm*
 
-###Question: 3 of 7
+####Question: 3 of 7
 Which are attributes for managing software by compiling from source code?   Select three responses.
  
  	Common in Linux but not in Windows or macOS
@@ -755,7 +768,7 @@ Which are attributes for managing software by compiling from source code?   Sele
 
 *Answer: Has a .deb file extension is not an attribute for managing software by compiling from source code*
 
-###Question: 4 of 7
+####Question: 4 of 7
 What do packages contain for software installation?  Select three responses.
  
  	Documentation
@@ -765,7 +778,7 @@ What do packages contain for software installation?  Select three responses.
 
 *Answer: All of these are contained in packages for software installation*
 
-###Question: 5 of 7
+####Question: 5 of 7
 Which command can be combined with yum to display specific installed software packages?
 
  	grep
@@ -775,7 +788,7 @@ Which command can be combined with yum to display specific installed software pa
 
 *Answer: The command grep can be combined with yum to display specific installed software packages*
 
-###Question: 6 of 7
+####Question: 6 of 7
 You want to see a list of all the ssh packages that have been installed on your Red Hat distribution. 
 What command would you use?
 
@@ -786,7 +799,7 @@ What command would you use?
 
 *Answer: The command yum list installed | grep ssh should be used*
 
-###Question: 7 of 7
+####Question: 7 of 7
 You are using a RedHat distribution and need to use yum to install a package update for zsh. What command would you use?
 
  	yum update zsh
@@ -797,7 +810,7 @@ You are using a RedHat distribution and need to use yum to install a package upd
 *Answer: The command to use would be yum update zsh.*
 
 ##Linux L12
-###Question 1 of 7
+####Question 1 of 7
 What is logging in Linux?
 
  	Keeping a personal diary
@@ -807,7 +820,7 @@ What is logging in Linux?
 
 *Answer: Keeping records of events on the system, allowing for auditing is logging in Linux.*
 
-###Question 2 of 7
+####Question 2 of 7
 What types of events are logged?  Select three responses.
  
  	System startup information
@@ -817,7 +830,7 @@ What types of events are logged?  Select three responses.
 
 *Answer: Your birthday is not a logged event.*
 
-###Question 3 of 7
+####Question 3 of 7
 Where does Linux normally store log files?
 
  	/boot
@@ -827,7 +840,7 @@ Where does Linux normally store log files?
 
 *Answer:  Linux normally stores log files in /var/log.*
 
-###Question 4 of 7
+####Question 4 of 7
 Which are true statements about log rotation?  Select three responses.
  
  	Log rotation is a way to limit the total size of the logs retained
@@ -835,9 +848,11 @@ Which are true statements about log rotation?  Select three responses.
  	Log rotation is not used frequently because log files are few and small in size.
  	Log rotation still allows analysis of recent events.
 
-*Answer: Those are all true statements.*
+*Answer: Log rotation is a way to limit the total size of the logs retained
+Log rotation is an automated process in which dated log files are archived.
+Log rotation still allows analysis of recent events.*
 
-###Question 5 of 7
+####Question 5 of 7
 All are a logging levels EXCEPT:
 
  	BASE
@@ -847,7 +862,7 @@ All are a logging levels EXCEPT:
 
 *Answer: BASE is not a logging level.*
 
-###Question 6 of 7
+####Question 6 of 7
 You need to review the most recent system logs. Where would you find the logs that are created for system information?
 
  	var/log/maillog
@@ -857,7 +872,7 @@ You need to review the most recent system logs. Where would you find the logs th
 
 *Answer: The logs can be found in var/log/syslog.*
 
-###Question 7 of 7
+####Question 7 of 7
 You are performing a routine security check and need to see a list of recent logins. What command would you use to see all recent logins?
 
  	backlog
@@ -869,7 +884,7 @@ You are performing a routine security check and need to see a list of recent log
  
 ##Linux L13
 
-###Question 1 of 6
+####Question 1 of 6
 Which command maintains a table of recently executed programs?
 
  	diff
@@ -879,7 +894,7 @@ Which command maintains a table of recently executed programs?
 
 *Answer: The command to maintain a table of recently executed programs is hash.*
 
-###Question 2 of 6
+####Question 2 of 6
 What is the purpose of the diff command?
 
  	Applies a different configuration
@@ -889,7 +904,7 @@ What is the purpose of the diff command?
 
 *Answer: The purpose of the diff command is to compare files line by line and displays the differences.*
 
-###Question 3 of 6
+####Question 3 of 6
 What is the result of the bundling several files into a single file called?
 
  	tardigrade
@@ -899,7 +914,7 @@ What is the result of the bundling several files into a single file called?
 
 *Answer: The result is tarball.*
 
-###Question 4 of 6
+####Question 4 of 6
 What is the purpose of the gzip command?
 
  	Compress files
@@ -909,7 +924,7 @@ What is the purpose of the gzip command?
 
 *Answer: The purpose of the gzip command is to compress files.*
 
-###Question 5 of 6
+####Question 5 of 6
 You need to bundle files 2 - 6 together to make copying them to another server easier.  What command would you use?
 
  	combine file2 file3 file4 file5 file6
@@ -919,7 +934,7 @@ You need to bundle files 2 - 6 together to make copying them to another server e
 
 *Answer: The command to use is tar -cvf tarball.tar file[2-6].*
 
-###Question 6 of 6
+####Question 6 of 6
 You need to see a list of your jpg files. Assuming your user name is student 02, what command would you use to see a list of your jpg files?
 
  	*.jpg find
@@ -930,7 +945,7 @@ You need to see a list of your jpg files. Assuming your user name is student 02,
 *Answer: The command to use would be find /home/student02 -name *.jpg.*
 
 ##Linux L14 - v1
-###Question:  1 of 7
+####Question:  1 of 7
 Which are Bash Shell features?
  Select three responses.
  
@@ -941,7 +956,7 @@ Which are Bash Shell features?
 
 *Answer: Bash Shell features cannot be added to Windows*
 
-###Question: 2 of 7
+####Question: 2 of 7
 Variables are usually declared in what case?
 
  	UPPERCASE
@@ -951,7 +966,7 @@ Variables are usually declared in what case?
 
 *Answer: Variables are usually declared in UPPERCASE*
 
-###Question: 3 of 7
+####Question: 3 of 7
 Which command allows a user to view, set or remove environmental variables?
 
  	env
@@ -961,7 +976,7 @@ Which command allows a user to view, set or remove environmental variables?
 
 *Answer: The env command allows a user to view, set or remove environmental variables*
 
-###Question: 4 of 7
+####Question: 4 of 7
 What is the command to remove a configured alias?
 
  	minusalias
@@ -971,7 +986,7 @@ What is the command to remove a configured alias?
 
 *Answer: The command to use to remove a configured alias is unalias*
 
-###Question: 5 of 7
+####Question: 5 of 7
 Which statement describes the purpose of the # character, when not found on the first line of a bash script?
 
  	Lines starting with # are generally ignored by bash so comments or notes to user can be communicated
@@ -981,7 +996,7 @@ Which statement describes the purpose of the # character, when not found on the 
  
 *Answer: This statement describes the purpose of the # character, when not found on the first line of a bash script*
 
-###Question: 6 of 7
+####Question: 6 of 7
 You want users to see a Please Be Patient, Long Script message on the screen when they run a script. 
 What command would you use to do so?
 
@@ -992,7 +1007,7 @@ What command would you use to do so?
 
 *Answer: The command Echo 'Please Be Patient, Long Script' should be used*
 
-###Question: 7 of 7
+####Question: 7 of 7
 You want to set the number of lines stored in your history list in your bash session to 1500. 
 What command would you use?
 
@@ -1004,7 +1019,7 @@ What command would you use?
 *Answer: The env HISTSIZE=1500 command should be used to set the number of lines stored in your history list in your bash session to 1500.*
  
 ##Linux L15
-###Question 1 of 7
+####Question 1 of 7
 Which are true statements about scripts?
  Select three responses.
  
@@ -1013,9 +1028,11 @@ Which are true statements about scripts?
  	Scripts may NOT be set as scheduled tasks by using the cron command.
  	Scripts are executed more consistently by being automated than by manually typing commands.
 
-*Answer: Those are all true statements about scripts.*
+*Answer: Scripts are text files of commands and related data.
+When the script file is executed, the commands are run.
+Scripts are executed more consistently by being automated than by manually typing commands.*
 
-###Question 2 of 7
+####Question 2 of 7
 What are arguments in Linux?
 
  	A shell type you can use instead of bash
@@ -1025,7 +1042,7 @@ What are arguments in Linux?
 
 *Answer: Arguments are values you want a script to act upon.*
 
-###Question 3 of 7
+####Question 3 of 7
 All are included in the process of creating a script EXCEPT:
 
  	Create script using a text editor
@@ -1035,7 +1052,7 @@ All are included in the process of creating a script EXCEPT:
 
 *Answer: Use [ ] to run a script is not included in the process of creating a script.*
 
-###Question 4 of 7
+####Question 4 of 7
 Which are true statements about functions?  Select three responses.
 
  	A function is a script within a script.
@@ -1043,9 +1060,11 @@ Which are true statements about functions?  Select three responses.
  	Scripts are tidier, which makes them easier to understand and troubleshoot.
  	Scripts create too much complexity, which makes them hard to understand and troubleshoot.
 
-*Answer: Those are all true statements about functions.*
+*Answer: A function is a script within a script.
+A function is a small chunk of code to be reused within a script.
+Scripts are tidier, which makes them easier to understand and troubleshoot.*
 
-###Question 5 of 7
+####Question 5 of 7
 What is a section of script that can be configured to repeat itself?
 
  	Backup statement
@@ -1055,7 +1074,7 @@ What is a section of script that can be configured to repeat itself?
 
 *Answer: The loop statement is a section of script that can be configured to repeat itself.*
 
-###Question 6 of 7
+####Question 6 of 7
 You want to create a script to back up your user home directory. What would script would you enter given your user name is student04?
 
  	tar -czf backup-job.tar /home/student04
@@ -1065,7 +1084,7 @@ You want to create a script to back up your user home directory. What would scri
 
 *Answer: The script to use would be tar -czf backup-job.tar /home/student04.*
 
-###Question 7 of 7
+####Question 7 of 7
 You have created a script that says hello to the current user and you would also like to include the current date in the message. The first two lines of your script are: 
     1 #!/bin/bash
     2 echo "Hello, $USER!"

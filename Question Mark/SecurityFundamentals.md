@@ -1,5 +1,5 @@
 ##Security Fundamentals L1 - v1
-###Question 1 of 6
+####Question 1 of 6
 Which three qualities of security are included in the CIA triad? Select three responses.
 
  	Confidentiality
@@ -9,7 +9,7 @@ Which three qualities of security are included in the CIA triad? Select three re
 
 *Answer:  All three of these qualities of security are included in the CIA triad.*
 
-###Question 2 of 6
+####Question 2 of 6
 All are security concerns for IT EXCEPT:
 
  	Corporate sabotage/espionage
@@ -19,7 +19,7 @@ All are security concerns for IT EXCEPT:
 
 *Answer:  Someone libeling the Chief Executive Officer (CEO) is not a security concern for IT.*
 
-###Question 3 of 6
+####Question 3 of 6
 What is the definition of a drive by security threat?
 
  	An attacker secretly relaying the communication between two parties who believe they are communicating directly to each other
@@ -29,7 +29,7 @@ What is the definition of a drive by security threat?
 
 *Answer:  The definition of drive by security threat is: Cybercriminals using insecure web sites to plant malicious codes that are automatically downloaded to users' computers.*
 
-###Question 4 of 6
+####Question 4 of 6
 Which step is part of the Prevention phase of the security life cycle?
 
  	Detect attacks
@@ -39,7 +39,7 @@ Which step is part of the Prevention phase of the security life cycle?
 
 *Answer:  Identify assets is part of the Prevention phase of the security life cycle.*
 
-###Question 5 of 6
+####Question 5 of 6
 All of these organizations work to develop cybersecurity standards EXCEPT:
 
  	Environmental Protection Agency (EPA)
@@ -49,7 +49,7 @@ All of these organizations work to develop cybersecurity standards EXCEPT:
 
 *Answer:  The Environmental Protection Agency (EPA) does not work to develop cybersecurity standards.*
 
-###Question 6 of 6
+####Question 6 of 6
 You are working on a project team to develop an app for users in the United States. Part of the functionality will include the need to accept card payments for in-app purchases. 
 What set of industry standards must you ensure the app is in compliance?
 
@@ -59,10 +59,9 @@ What set of industry standards must you ensure the app is in compliance?
  	PIPEDA
 
 *Answer:  You must ensure an app is in compliance with PCI.*
-
  
 ##Security Fundamentals L2a - v1
-###Question 1 of 7
+####Question 1 of 7
 All are levels of defense in the Open Systems Interconnection (OSI) model EXCEPT:
 
  	Airport security
@@ -72,7 +71,7 @@ All are levels of defense in the Open Systems Interconnection (OSI) model EXCEPT
 
 *Answer: Airport security  is not a level of defense in the Open Systems Interconnection (OSI) model. Application security, Endpoint security, and Perimeter security are levels of defense in the (OSI) model.*
 
-###Question 2 of 7
+####Question 2 of 7
 All are methods of physically compromising a datacenter facility EXCEPT:
 
  	Block Fan
@@ -82,7 +81,7 @@ All are methods of physically compromising a datacenter facility EXCEPT:
 
 *Answer:  Malware is not a method of physically compromising a datacenter facility.*
 
-###Question 3 of 7
+####Question 3 of 7
 Which is a discovery tool for Sniffer?
 
  	Retina
@@ -92,7 +91,7 @@ Which is a discovery tool for Sniffer?
 
 *Answer:  Wireshark is a discovery tool for Sniffer.*
 
-###Question 4 of 7
+####Question 4 of 7
 What Linux-based tool is used to build on Internet Control Message Protocol (ICMP) and other protocols to gather and present data?
 
  	chgmd
@@ -103,7 +102,7 @@ What Linux-based tool is used to build on Internet Control Message Protocol (ICM
 
 *Answer:  Nmap is a Linux-based tool used to build on Internet Control Message Protocol (ICMP) and other protocols to gather and present data.*
 
-###Question 5 of 7
+####Question 5 of 7
 All are policies network security could address EXCEPT:
 
  	How much usage is given to each person
@@ -113,7 +112,7 @@ All are policies network security could address EXCEPT:
 
 *Answer:  Who is hired is not a policy.*
 
-###Question 6 of 7
+####Question 6 of 7
 You are working on a corporate IT security team and are helping review the security plan, which is framed around the OSI model. 
 
 Which layers should you focus on protecting?
@@ -125,7 +124,7 @@ Which layers should you focus on protecting?
 
 *Answer:  All seven layers should be protected.*
 
-###Question 7 of 7
+####Question 7 of 7
 You are a security consultant doing some penetration testing for a customer and are going to initially work to map their network. 
 
 Which common commands could help with this? Select two responses.
@@ -138,7 +137,7 @@ Which common commands could help with this? Select two responses.
 *Answer:  Ping and traceroute are two common commands.*
  
 ##Security Fundamentals L2b - v1
-###Question 1 of 7
+####Question 1 of 7
 Which statement describes hardening?
 
  	Adding armor to servers
@@ -148,7 +147,7 @@ Which statement describes hardening?
 
 *Answer:  Reduce the number of running services of a system describes hardening.*
 
-###Question 2 of 7
+####Question 2 of 7
 Which statements about patching are true? Select three responses.
 
  	A patch is applied on a system where a weakness has been discovered.
@@ -158,7 +157,7 @@ Which statements about patching are true? Select three responses.
 
 *Answer:  That is not a true statement about patching.*
 
-###Question 3 of 7
+####Question 3 of 7
 What are Multi Device Management (MDM) solutions used for?
 
  	Securing and controlling devices
@@ -168,7 +167,7 @@ What are Multi Device Management (MDM) solutions used for?
 
 *Answer:  Multi Device Management (MDM) solutions used for securing and controlling devices.*
 
-###Question 4 of 7
+####Question 4 of 7
 All are threats that hardening can protect against EXCEPT:
 
  	Man-in-the-middle attacks
@@ -178,7 +177,7 @@ All are threats that hardening can protect against EXCEPT:
 
 *Answer:  Social engineering is a threat that hardening can protect.*
 
-###Question 5 of 7
+####Question 5 of 7
 Which is a free analysis tool?
 
  	IBM App Scan
@@ -188,7 +187,7 @@ Which is a free analysis tool?
 
 *Answer:  Personal Software Inspector (PSI) is a free analysis tool.*
 
-###Question 6 of 7
+####Question 6 of 7
 You are doing a security audit to make sure systems have been properly hardened. 
 Which three questions would you consider for each system?
 
@@ -199,7 +198,7 @@ Which three questions would you consider for each system?
 
 *Answer:  One of those questions would not be considered.*
 
-###Question 7 of 7
+####Question 7 of 7
 Which strategies could you implement that would not make any changes to the network of your company, as the head of corporate security? Select two responses.
 
  	Harden the network
@@ -208,10 +207,9 @@ Which strategies could you implement that would not make any changes to the netw
  	Restrict physical access to the data center
 
 *Answer:  One of those is not a strategy for consideration.
-
  
 ##Security Fundamentals L2c - v1
-###Question 1 of 7
+####Question 1 of 7
 What will a proper security architecture utilize? Select three responses.
 
  	Administrative
@@ -221,7 +219,7 @@ What will a proper security architecture utilize? Select three responses.
 
 *Answer: Mental controls should not be utilized.*
 
-###Question 2 of 7
+####Question 2 of 7
 What type of firewall filters packets between two subnets?
 
  	Host firewall
@@ -231,7 +229,7 @@ What type of firewall filters packets between two subnets?
 
 *Answer: A type of firewall filter that packets between two subnets is a network firewall.*
 
-###Question 3 of 7
+####Question 3 of 7
 All are firewall categories EXCEPT:
 
  	Application level
@@ -241,7 +239,7 @@ All are firewall categories EXCEPT:
 
 *Answer:  Server filters are firewall categories.*
 
-###Question 4 of 7
+####Question 4 of 7
 What kind of zone is an intranet?
 
  	Fully controlled zone
@@ -251,7 +249,7 @@ What kind of zone is an intranet?
 
 *Answer: The intranet is a fully controlled zone.*
 
-###Question 5 of 7
+####Question 5 of 7
 What translates private addresses to public addresses?
 
  	Network Access Control (NAC)
@@ -261,7 +259,7 @@ What translates private addresses to public addresses?
 
 *Answer: Network Address Translation (NAT) translates private addresses to public addresses.*
 
-###Question 6 of 7
+####Question 6 of 7
 You have been assigned to review the data security plan for assets and services installed on your company's intranet. 
 
 You would expect to see all of these assets in the company Intranet EXCEPT:
@@ -273,7 +271,7 @@ You would expect to see all of these assets in the company Intranet EXCEPT:
 
 *Answer: A public company website would likely seen in a company Intranet.*
 
-###Question 7 of 7
+####Question 7 of 7
 You are reviewing the Network Access Control (NAC) for your company to ensure it is properly in place.  Which security measures will you be verifying? Select three responses.
 
  	Verify background checks on programmers are completed
@@ -283,9 +281,8 @@ You are reviewing the Network Access Control (NAC) for your company to ensure it
 
 *Answer: Those three security measures would be reviewed for Network Access Control (NAC) verification.*
 
-
 ##Security Fundamentals L2d - v1
-###Question 1 of 7
+####Question 1 of 7
 What should be implemented for all engineer, administrative and root level access to network devices to prevent network exploitation?
 
  	Access Control Lists (ACLs)
@@ -295,7 +292,7 @@ What should be implemented for all engineer, administrative and root level acces
 
 *Answer:  Authentication, authorization, and accounting (AAA) should be implemented for all engineer, administrative and root level access to network devices to prevent network exploitation.*
 
-###Question 2 of 7
+####Question 2 of 7
 What divides a large network into smaller logical groups?
 
  	Cloud management
@@ -305,7 +302,7 @@ What divides a large network into smaller logical groups?
 
 *Answer:  Network segmentation Network segmentation divides a large network into smaller logical groups.*
 
-###Question 3 of 7
+####Question 3 of 7
 What protocols make it easy to find and keep track of what is on the network?
 
  	Firewall protocols
@@ -315,7 +312,7 @@ What protocols make it easy to find and keep track of what is on the network?
 
 *Answer:  Network discovery protocols make it easy to find and keep track of what is on the network.*
 
-###Question 4 of 7
+####Question 4 of 7
 All are traffic filtering best practices EXCEPT:
 
  	Explicitly deny all traffic
@@ -325,7 +322,7 @@ All are traffic filtering best practices EXCEPT:
 
 *Answer:  Implement filtering as far from the source as possible is not a best practice for traffic filtering.*
 
-###Question 5 of 7
+####Question 5 of 7
 Which insecure protocols should be disabled when establishing secure access?  Select three responses.
 
  	HTTP
@@ -335,7 +332,7 @@ Which insecure protocols should be disabled when establishing secure access?  Se
 
 *Answer:  HTTP, SNMPv1, and Telnet are insecure protocols and should be disabled when establishing secure access.*
 
-###Question 6 of 7
+####Question 6 of 7
 You are a security consultant and have recommended that a large company consider implementing network segmentation as part of their security strategy. What reasons would you give the client for doing so?
 
  	Easier management
@@ -345,7 +342,7 @@ You are a security consultant and have recommended that a large company consider
 
 *Answer:  Improved physical security to data centers would not be a reason.*
 
-###Question 7 of 7
+####Question 7 of 7
 As a security expert, you know you need to the ability to use network discovery protocols with the security and privacy concerns on the gathering of sensitive information. What two strategies could you use to address those concerns?
 
  	Share access to network discovery information across the IT dept.
@@ -354,10 +351,9 @@ As a security expert, you know you need to the ability to use network discovery 
  	Block access to the information if you are not actively using them
 
 *Answer:  Two strategies that could be used include: Turn network discovery protocol off; and block access to the information if you are not actively using them.*
-
  
 ##Security Fundamentals L2e - v1
-###Question 1 of 7
+####Question 1 of 7
 What type of algorithms does encryption use to cipher data?
 
  	Cryptographic
@@ -367,7 +363,7 @@ What type of algorithms does encryption use to cipher data?
 
 *Answer:  Cryptographic is a type of algorithm that uses encryption to cipher data.*
 
-###Question 2 of 7
+####Question 2 of 7
 What is a disadvantage for asymmetric encryption?
 
  	Can be used for shorter data only
@@ -377,7 +373,7 @@ What is a disadvantage for asymmetric encryption?
 
 *Answer:  A disadvantage of asymmetric encryption is that it can be used for shorter data only.*
 
-###Question 3 of 7
+####Question 3 of 7
 Which are the three types of permissions? Select three responses.
 
  	Discretionary
@@ -387,7 +383,7 @@ Which are the three types of permissions? Select three responses.
 
 *Answer:  Those three are all permission types.*
 
-###Question 4 of 7
+####Question 4 of 7
 All are features of Mandatory Access Control EXCEPT:
 
  	A simple system requiring little overhead
@@ -397,7 +393,7 @@ All are features of Mandatory Access Control EXCEPT:
 
 *Answer:  A simple system requiring little overhead is not a feature of Mandatory Access Control.*
 
-###Question 5 of 7
+####Question 5 of 7
 Which are features of Role-based Access Control? Select three responses.
 
  	Efficient in high staff turnovers and hires for shorter term projects and tasks
@@ -407,7 +403,7 @@ Which are features of Role-based Access Control? Select three responses.
 
 *Answer:   Those are all features of Role-based Access Control.*
 
-###Question 6 of 7
+####Question 6 of 7
 You need to encrypt a large amount of data to share in a fast and reliable method. You plan to use the same key to both cipher and decipher the data. 
 
 What kind of encryption would you use to accomplish this task?
@@ -419,7 +415,7 @@ What kind of encryption would you use to accomplish this task?
 
 *Answer:  Symmetric encryption would be used to accomplish this task.*
 
-###Question 7 of 7
+####Question 7 of 7
 You are creating a security plan for encrypting your company's data at rest and data in motion. 
 
 Which data in motion protocols you might consider for your plan? Select three responses.
@@ -430,10 +426,9 @@ Which data in motion protocols you might consider for your plan? Select three re
  	Encrypting File System (EFS)
 
 *Answer:  Encrypting File System (EFS) would not be considered for this plan.*
-
  
 ##Security Fundamentals L2f - v1
-###Question 1 of 7
+####Question 1 of 7
 What is the core principle of Public Key Infrastructure (PKI)?
 
  	Innovation and creativity
@@ -443,7 +438,7 @@ What is the core principle of Public Key Infrastructure (PKI)?
 
 *Answer:  Trust and relationships is the core principle of Public Key Infrastructure (PKI).*
 
-###Question 2 of 7
+####Question 2 of 7
 What does CA represent?
 
  	Certificate Authority
@@ -453,7 +448,7 @@ What does CA represent?
 
 *Answer:  CA represents Certificate Authority.*
 
-###Question 3 of 7
+####Question 3 of 7
 What is a characteristic of an internal Certificate Authority (CA)?
 
  	Configured by a third party provider
@@ -463,7 +458,7 @@ What is a characteristic of an internal Certificate Authority (CA)?
 
 *Answer:  Fully configured by an organization is a characteristic of an internal Certificate Authority (CA).*
 
-###Question 4 of 7
+####Question 4 of 7
 All are key considerations for certificate revocation lists EXCEPT:
 
  	Cannot access Certificate Revocation List (CRL)  issues specific to internal Certificate Authorities (CAs)
@@ -473,7 +468,7 @@ All are key considerations for certificate revocation lists EXCEPT:
 
 *Answer:  Small administrative effort to manage multiple Certificate Revocation Lists (CRLs)s would be a key consideration for certificate revocation.*
 
-###Question 5 of 7
+####Question 5 of 7
 Which statements are true about enabling trust? Select three responses.
 
  	A trust prevents rogue systems from integrating between two computers that would like to exchange information.
@@ -483,7 +478,7 @@ Which statements are true about enabling trust? Select three responses.
 
 *Answer:  Personal keys ensure that trust exists throughout your entire hierarchy is not a true statement about enabling trust.*
 
-###Question 6 of 7
+####Question 6 of 7
 You are auditing your company's certificate storage environment compared to the plan your head of corporate security implemented last year. 
 
 Which of the below options is not a recommended certificate storage location?
@@ -495,7 +490,7 @@ Which of the below options is not a recommended certificate storage location?
 
 *Answer:   Stored on an unsecured web server is not recommended certificate storage location.*
 
-###Question 7 of 7
+####Question 7 of 7
 You have been tasked with preparing a CA management proposal. Select all of the applicable questions below you should consider when creating your plan.
 
  	Who is administering the CAs?
@@ -506,7 +501,7 @@ You have been tasked with preparing a CA management proposal. Select all of the 
 *Answer:  You should consider the physical security guidelines for the data center.*
  
 ##Security Fundamentals L2g - v1
-###Question 1 of 7
+####Question 1 of 7
 Which of the features below correctly correspond to the step in Identification and Authentication, Authorization and Accountability (IAAA)?
 
  	Accounting --> Tracking
@@ -516,7 +511,7 @@ Which of the features below correctly correspond to the step in Identification a
 
 *Answer:  The Accounting --> Tracking feature correspond to the step in Identification and Authentication, Authorization and Accountability (IAAA).*
 
-###Question 2 of 7
+####Question 2 of 7
 Which is an authentication factor for something you are?
 
  	Fingerprint reader
@@ -526,7 +521,7 @@ Which is an authentication factor for something you are?
 
 *Answer:  A fingerprint reader is an authentication factor that is something you are.*
 
-###Question 3 of 7
+####Question 3 of 7
 What type of table is used to store hashes of possible passwords?
 
  	Hash table
@@ -536,7 +531,7 @@ What type of table is used to store hashes of possible passwords?
 
 *Answer:  A rainbow table is a type of table is used to store hashes of possible passwords.*
 
-###Question 4 of 7
+####Question 4 of 7
 Select two features of Brute force attacks.
 
  	GPUs are used to accelerate cracking
@@ -546,7 +541,7 @@ Select two features of Brute force attacks.
 
 *Answer:  Two features of Brute force attacks include: GPUs are used to accelerate cracking; and the brute force attack relies on all password possibilities.*
 
-###Question 5 of 7
+####Question 5 of 7
 What is a form of single sign-on in which one account is used for multiple services?
 
  	Independent identities
@@ -556,7 +551,7 @@ What is a form of single sign-on in which one account is used for multiple servi
 
 *Answer:  Federated identities are a form of single sign-on.*
 
-###Question 6 of 7
+####Question 6 of 7
 You have decided to include a physical object authentication factor in a security plan you are writing for your department. 
 
 Which are possible options you could consider for your plan? Select three responses.
@@ -568,7 +563,7 @@ Which are possible options you could consider for your plan? Select three respon
 
 *Answer:  A password is not a possible option for plan consideration.*
 
-###Question 7 of 7
+####Question 7 of 7
 You have a password policy as an additional layer in your department's security plan. All parameters provide for a strong, secure password EXCEPT:
 
  	Minimum of 3 characters
@@ -579,7 +574,7 @@ You have a password policy as an additional layer in your department's security 
 *Answer:  A minimum of 3 characters does not provide a strong, secure password.
  
 ##Security Fundamentals L3 - v1
-###Question 1 of 6
+####Question 1 of 6
 What are common protection tools? Select three responses.
 
  	Antivirus
@@ -589,7 +584,7 @@ What are common protection tools? Select three responses.
 
 *Answer:  Firestops are not common protection tools.*
 
-###Question 2 of 6
+####Question 2 of 6
 What type of social engineering attack has low overhead and can be made successful with limited response?
 
  	Brute force
@@ -599,7 +594,7 @@ What type of social engineering attack has low overhead and can be made successf
 
 *Answer:  Phishing is a type of social engineering attack.*
 
-###Question 3 of 6
+####Question 3 of 6
 What is the best defense against social engineering attacks?
 
  	Hiring top security experts
@@ -609,7 +604,7 @@ What is the best defense against social engineering attacks?
 
 *Answer:  The best defense against social engineering is training/education.*
 
-###Question 4 of 6
+####Question 4 of 6
 What software vulnerability is created when an application is not secured with boundary checks?
 
  	Buffer overflows
@@ -619,7 +614,7 @@ What software vulnerability is created when an application is not secured with b
 
 *Answer:  Buffer overflows is a software vulnerability created when an application is not secured with boundary checks.*
 
-###Question 5 of 6
+####Question 5 of 6
 Your company network has been previously penetrated by malware, so you are updating your security planning to take a more robust approach to preventing malware attacks. 
 
 Which are malware attacks that need to be addressed in the malware section of your plan? Select three responses.
@@ -631,7 +626,7 @@ Which are malware attacks that need to be addressed in the malware section of yo
 
 *Answer:  Social engineering does not need to be addressed in the malware section of your plan.*
 
-###Question 6 of 6
+####Question 6 of 6
 Once you have identified the malware attacks you need to protect against for your plan, you need to next identify countermeasures. All are countermeasures that would protect against malware attacks EXCEPT:
 
  	Update antivirus/anti-spyware
@@ -641,9 +636,8 @@ Once you have identified the malware attacks you need to protect against for you
 
 *Answer:  Telling users not to worry about malware because  the head of security has everything handled is not a countermeasure to protect against malware attacks.
  
- 
 ##Security Fundamentals L4 - v1
-###Question 1 of 7
+####Question 1 of 7
 Which features apply to Business Continuity Planning? Select three responses.
 
 	A preventative and proactive management tool written before disasters occur to minimize the harm to the business
@@ -653,7 +647,7 @@ Which features apply to Business Continuity Planning? Select three responses.
 
 *Answer:  Activated during an outage does not apply to Business Continuity Planning.*
 
-##Question 2 of 7
+####Question 2 of 7
 Select three ways to recover from an outage.
 
 	Pilot light
@@ -662,7 +656,7 @@ Select three ways to recover from an outage.
 	Video-based replication
 *Answer:  Video-based replication is not a way to recover from an outage.*
 
-###Question 3 of 7
+####Question 3 of 7
 Which objective is an example of a Recovery Planning Objective (RPO)?
 
 	How much data you can lose before business suffers
@@ -672,7 +666,7 @@ Which objective is an example of a Recovery Planning Objective (RPO)?
 
 *The objective of Recovery Planning Objective (RPO) is to determine how much data you can lose before business suffers.*
 
-###Question 4 of 7
+####Question 4 of 7
 Which backup best practice distributes data across 2 or more drives, is more reliable, and allows for larger data sets in backups?
 	
 	Encrypt backup files
@@ -682,7 +676,7 @@ Which backup best practice distributes data across 2 or more drives, is more rel
 
 *Answer: Store backups on Redundant Array of Independent Disks (RAID) arrays is a best practice for distributing data*
 
-###Question 5 of 7
+####Question 5 of 7
 An attack has occurred on your company's network and you have been assigned to the team that is working the issue.   
 Which stage would your team typically follow as they respond to this malicious incident? Select two responses.
 
@@ -693,7 +687,7 @@ Which stage would your team typically follow as they respond to this malicious i
 
 *Respond and remediate and take actions to prevent this incident from happening in the future are two responses to a malicious incident.*
 
-###Question 6 of 7
+####Question 6 of 7
 Which data center alternate processing concept is designed to spread processing among several operation centers and create a distributed architecture approach to redundancy?
 
 	Cold site
@@ -703,7 +697,7 @@ Which data center alternate processing concept is designed to spread processing 
 
 *Answer: Data centers are designed to spread processing among several operation centers and create a distributed architecture approach to redundancy.*
 
-###Question 7 of 7
+####Question 7 of 7
 As malicious attacks increase, your head of security has decided to consider how the cloud can provide more rapid recovery from an outage. Which two cloud-based recovery strategies could you recommend to her?
 
 	Build a second data center
@@ -713,9 +707,8 @@ As malicious attacks increase, your head of security has decided to consider how
 
 *Answer: Continuous replication and pilot light are two cloud-based recovery strategies that could be recommended.*
 
-
 ##Security Fundamentals L5 - v1
-###Question 1 of 7
+####Question 1 of 7
 What phase of the security life cycle reviews what happened after a security breach?
 
  	Analysis
@@ -725,7 +718,7 @@ What phase of the security life cycle reviews what happened after a security bre
 
 *Answer:  Analysis is a phase of the security life cycle that reviews a security breach.*
 
-###Question 2 of 7
+####Question 2 of 7
 All are steps to conduct Root Cause Analysis (RCA) EXCEPT:
 
  	Establish a projection for when business will return to normal
@@ -735,7 +728,7 @@ All are steps to conduct Root Cause Analysis (RCA) EXCEPT:
 
 *Answer:  Establish a projection for when business will return to normal is not a step when conducting a Root Cause Analysis (RCA).*
 
-###Question 3 of 7
+####Question 3 of 7
 All are benefits of monitoring/logging EXCEPT:
 
  	Less effective change control
@@ -745,7 +738,7 @@ All are benefits of monitoring/logging EXCEPT:
 
 *Answer:  Less effective change control is not a benefit of monitoring/logging.*
 
-###Question 4 of 7
+####Question 4 of 7
 All are true statements about cybercrime jurisdiction EXCEPT:
 
  	Cybercriminals often work from a part of the world where there activity is not illegal.
@@ -755,7 +748,7 @@ All are true statements about cybercrime jurisdiction EXCEPT:
 
 *Answer:  It is not easy to prosecute cybercrimes.*
 
-###Question 5 of 7
+####Question 5 of 7
 Your company has just recovered from a Trojan horse security breach. Which questions should you answer in your report as you work on the analysis?
  Select three responses.
 
@@ -764,9 +757,9 @@ Your company has just recovered from a Trojan horse security breach. Which quest
  	How could it have been prevented?
  	How many did it affect?
 
-*Answer:  Those three questions should be answered in your report as you work on the analysis.*
+*Answer:  How did it happen? How could it have been prevented? How many did it affect?*
 
-###Question 6 of 7
+####Question 6 of 7
 You are the head of corporate security and want to build a sense of continuous improvement into your department's core values. All are strategies that would help achieve your goal EXCEPT:
 
  	Have your department team members break into groups to brainstorm new solutions
@@ -776,7 +769,7 @@ You are the head of corporate security and want to build a sense of continuous i
 
 *Answer:  Treating security as an expense, not an investment is not jhmn a strategy that would help achieve the stated goal.*
 
-###Question 7 of 7
+####Question 7 of 7
 Which are risk response strategies? Select three responses.
 
  	Risk acceptance
