@@ -1,5 +1,4 @@
 ##Security Fundamentals L1 - v1
-
 ###Question 1 of 6
 Which three qualities of security are included in the CIA triad? Select three responses.
 
@@ -139,7 +138,6 @@ Which common commands could help with this? Select two responses.
 *Answer:  Ping and traceroute are two common commands.*
  
 ##Security Fundamentals L2b - v1
-
 ###Question 1 of 7
 Which statement describes hardening?
 
@@ -192,7 +190,6 @@ Which is a free analysis tool?
 
 ###Question 6 of 7
 You are doing a security audit to make sure systems have been properly hardened. 
-
 Which three questions would you consider for each system?
 
  	Are all unnecessary services turned off?
@@ -213,8 +210,81 @@ Which strategies could you implement that would not make any changes to the netw
 *Answer:  One of those is not a strategy for consideration.
 
  
-##Security Fundamentals L2d - v1
+##Security Fundamentals L2c - v1
+###Question 1 of 7
+What will a proper security architecture utilize? Select three responses.
 
+ 	Administrative
+ 	Mental controls
+ 	Physical controls
+ 	Technical
+
+*Answer: Mental controls should not be utilized.*
+
+###Question 2 of 7
+What type of firewall filters packets between two subnets?
+
+ 	Host firewall
+ 	Network firewall
+ 	Internet firewall
+ 	Untrusted firewall
+
+*Answer: A type of firewall filter that packets between two subnets is a network firewall.*
+
+###Question 3 of 7
+All are firewall categories EXCEPT:
+
+ 	Application level
+ 	Packet filters
+ 	Server filters
+ 	Stateful packet inspection
+
+*Answer:  Server filters are firewall categories.*
+
+###Question 4 of 7
+What kind of zone is an intranet?
+
+ 	Fully controlled zone
+ 	Partially controlled zone
+ 	Perimeter zone
+ 	Uncontrolled zone
+
+*Answer: The intranet is a fully controlled zone.*
+
+###Question 5 of 7
+What translates private addresses to public addresses?
+
+ 	Network Access Control (NAC)
+ 	Network Address Translation (NAT)
+ 	RADIUS clients
+ 	VoIP gateways
+
+*Answer: Network Address Translation (NAT) translates private addresses to public addresses.*
+
+###Question 6 of 7
+You have been assigned to review the data security plan for assets and services installed on your company's intranet. 
+
+You would expect to see all of these assets in the company Intranet EXCEPT:
+
+ 	Public company website
+ 	Directory services
+ 	Web servers hosting internally used apps
+ 	File servers
+
+*Answer: A public company website would likely seen in a company Intranet.*
+
+###Question 7 of 7
+You are reviewing the Network Access Control (NAC) for your company to ensure it is properly in place.  Which security measures will you be verifying? Select three responses.
+
+ 	Verify background checks on programmers are completed
+ 	Verify antivirus
+ 	Verify firewall is enabled
+ 	Verify anti-spyware
+
+*Answer: Those three security measures would be reviewed for Network Access Control (NAC) verification.*
+
+
+##Security Fundamentals L2d - v1
 ###Question 1 of 7
 What should be implemented for all engineer, administrative and root level access to network devices to prevent network exploitation?
 
@@ -287,7 +357,6 @@ As a security expert, you know you need to the ability to use network discovery 
 
  
 ##Security Fundamentals L2e - v1
-
 ###Question 1 of 7
 What type of algorithms does encryption use to cipher data?
 
@@ -364,7 +433,6 @@ Which data in motion protocols you might consider for your plan? Select three re
 
  
 ##Security Fundamentals L2f - v1
-
 ###Question 1 of 7
 What is the core principle of Public Key Infrastructure (PKI)?
 
@@ -435,10 +503,9 @@ You have been tasked with preparing a CA management proposal. Select all of the 
  	What is the procedure for certificate approval?
  	What are the physical security guidelines for the data center?
 
-*Answer:  You should consider the physical security guidelines for the data center.
+*Answer:  You should consider the physical security guidelines for the data center.*
  
 ##Security Fundamentals L2g - v1
-
 ###Question 1 of 7
 Which of the features below correctly correspond to the step in Identification and Authentication, Authorization and Accountability (IAAA)?
 
@@ -512,7 +579,6 @@ You have a password policy as an additional layer in your department's security 
 *Answer:  A minimum of 3 characters does not provide a strong, secure password.
  
 ##Security Fundamentals L3 - v1
-
 ###Question 1 of 6
 What are common protection tools? Select three responses.
 
@@ -575,8 +641,80 @@ Once you have identified the malware attacks you need to protect against for you
 
 *Answer:  Telling users not to worry about malware because  the head of security has everything handled is not a countermeasure to protect against malware attacks.
  
-##Security Fundamentals L5 - v1
+ 
+##Security Fundamentals L4 - v1
+###Question 1 of 7
+Which features apply to Business Continuity Planning? Select three responses.
 
+	A preventative and proactive management tool written before disasters occur to minimize the harm to the business
+	Activated during an outage
+	Keep the business running in a reduced form over a period of time
+	Lists different disaster scenarios and what the business will do to keep business running as usual
+
+*Answer:  Activated during an outage does not apply to Business Continuity Planning.*
+
+##Question 2 of 7
+Select three ways to recover from an outage.
+
+	Pilot light
+	Snapshot-based replication
+	Traditional tape storage
+	Video-based replication
+*Answer:  Video-based replication is not a way to recover from an outage.*
+
+###Question 3 of 7
+Which objective is an example of a Recovery Planning Objective (RPO)?
+
+	How much data you can lose before business suffers
+	How quickly you need to recover IT infrastructure to maintain business continuity
+	Involves the entire business infrastructure
+	The sooner you need to get back online, the costlier it will be
+
+*The objective of Recovery Planning Objective (RPO) is to determine how much data you can lose before business suffers.*
+
+###Question 4 of 7
+Which backup best practice distributes data across 2 or more drives, is more reliable, and allows for larger data sets in backups?
+	
+	Encrypt backup files
+	Remote storage
+	Stack backup solutions
+	Store backups on Redundant Array of Independent Disks (RAID) arrays
+
+*Answer: Store backups on Redundant Array of Independent Disks (RAID) arrays is a best practice for distributing data*
+
+###Question 5 of 7
+An attack has occurred on your company's network and you have been assigned to the team that is working the issue.   
+Which stage would your team typically follow as they respond to this malicious incident? Select two responses.
+
+	Exclude dependent stakeholders from notifications
+	Investigate incident
+	Respond and remediate
+	Take actions to prevent this incident from happening in the future
+
+*Respond and remediate and take actions to prevent this incident from happening in the future are two responses to a malicious incident.*
+
+###Question 6 of 7
+Which data center alternate processing concept is designed to spread processing among several operation centers and create a distributed architecture approach to redundancy?
+
+	Cold site
+	Multiple centers
+	Subscription services
+	Reciprocal agreement
+
+*Answer: Data centers are designed to spread processing among several operation centers and create a distributed architecture approach to redundancy.*
+
+###Question 7 of 7
+As malicious attacks increase, your head of security has decided to consider how the cloud can provide more rapid recovery from an outage. Which two cloud-based recovery strategies could you recommend to her?
+
+	Build a second data center
+	Continuous replication
+	Pilot light
+	Traditional tape storage
+
+*Answer: Continuous replication and pilot light are two cloud-based recovery strategies that could be recommended.*
+
+
+##Security Fundamentals L5 - v1
 ###Question 1 of 7
 What phase of the security life cycle reviews what happened after a security breach?
 
@@ -636,7 +774,7 @@ You are the head of corporate security and want to build a sense of continuous i
  	Rewarding those who achieve success
  	Treating security as an expense, not an investment
 
-*Answer:  Treating security as an expense, not an investment is not a strategy that would help achieve the stated goal.*
+*Answer:  Treating security as an expense, not an investment is not jhmn a strategy that would help achieve the stated goal.*
 
 ###Question 7 of 7
 Which are risk response strategies? Select three responses.

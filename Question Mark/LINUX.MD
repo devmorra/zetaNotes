@@ -1,77 +1,5 @@
-##Linux L11 - v1
-
-###Question 1 of 7
-All are primary methods of managing software in Linux operating systems EXCEPT:
-
- 	Blue Hat method
- 	Compile from source code
- 	Debian method
- 	Red Hat method
-
-###Question 2 of 7
-What is the file extension for Red Hat software packages?
-
- 	.com
- 	.deb
- 	.net
- 	.rpm
-
-*Answer: The file extension for Red Hat software packages is .rpm.nswer*
-
-###Question 3 of 7
-Which are attributes for managing software by compiling from source code? Select three responses.
-
- 	Common in Linux but not in Windows or macOS
- 	Has a .deb file extension
- 	Turns human-readable code into machine-readable code
- 	Uses GCC compiler
-
-*Answer: Has a .deb file extension is not an attribute for managing software by compiling from source code.*
-
-###Question 4 of 7
-What do packages contain for software installation? Select three responses.
-
- 	Documentation
- 	Discounts on future software purchases
- 	Installation instructions
- 	Pre-compiled code
-
-*Answer:All of these are contained in packages for software installation.*
-
-###Question 5 of 7
-Which command can be combined with yum to display specific installed software packages?
-
- 	grep
- 	kill
- 	regedit
- 	whoami
-
-*Answer: The command grep can be combined with yum to display specific installed software packages.*
-
-###Question 6 of 7
-You want to see a list of all the ssh packages that have been installed on your Red Hat distribution. 
-What command would you use?
-
- 	grep yum ssh
- 	yum list installed | grep ssh
- 	yum remove ssh
- 	yum zsh
-
-*Answer: The command yum list installed | grep ssh should be used.*
-
-###Question 7 of 7
-You are using a RedHat distribution and need to use yum to install a package update for zsh. 
-What command would you use?
-
- 	yum update zsh
- 	zsh install
- 	yum remove zsh
- 	zsh yum
-
-*Answer:  The command to use would be yum update zsh.*
  
 ##Linux L2
-
 ###Question 1 of 7
 What is the command syntax of Linux is composed of?
  Select three responses.
@@ -147,7 +75,6 @@ What command should you use?
 *Answer: The command you should use is wc -l addresses.csv.
  
 ##Linux L3
-
 ###Question 1 of 6
 What is everything in Linux composed of?
 
@@ -285,7 +212,6 @@ Which commands could help you accomplish this task?
 *Answer: The commands you would use are sort -u file.txt and uniq /var/log/secure.
  
 ##Linux L5
-
 ###Question 1 of 7
 What is the best practice for number of users per account?
 
@@ -416,7 +342,7 @@ Which are best practices for permissions?
 
 *Answer: One of those are not a best practice for permissions.*
 
-###Question 6 of 7
+### Question 6 of 7
 You have been asked to add group write permissions to file 1. 
 What command would allow you to do this in symbolic mode?
 
@@ -436,9 +362,81 @@ You have also been asked to change the owner of a file, named file 1, to a user 
  	own jmartinez file 1
 
 *Answer: The command chown jmartinez file 1 to change the file owner.*
+
+##Linux L7 - v1*
+###Question 1 of 7
+What is the default text editor for virtually all Linux distributions?
+
+ 	Lim
+ 	TextEditor
+ 	Vim
+ 	Visio
+
+*Answer:  Vim is the default text editor for virtually all Linux distributions.*
+
+###Question 2 of 7
+Which mode does Vim use?
+ Select three responses.
+
+ 	Command
+ 	Insert
+ 	Execute
+ 	Restart
+
+*Answer:  Command, insert, and execute are all modes Vim uses.*
+
+###Question 3 of 7
+All are help options in Vim EXCEPT:
+
+ 	k
+ 	:help
+ 	nano
+ 	vimtutor
+
+*Answer:  Nano is not a help option in Vim.*
+
+###Question 4 of 7
+Where can you see common nano commands?
+
+ 	Bottom of the screen
+ 	Left of the screen
+ 	Right of the screen
+ 	Top of the screen
+
+*Answer:  You can see nano commands at the bottom of the screen.*
+
+###Question 5 of 7
+Which statements apply to the gedit text editor?
+ Select three responses.
+
+ 	Gedit is a Graphical User Interface (GUI) text editor.
+ 	Gedit is only available if the Graphical User Interface (GUI) is installed.
+ 	Menu buttons are available with gedit.
+ 	Only keyboard shortcut commands may be used with gedit.
+
+*Answer:  Those statements apply to the gedit text editor.*
+
+###Question 6 of 7
+You have been editing a text file using the insert mode in Vim. You are done editing and need to exit Insert mode and return to Command mode. What key would you press?
+
+ 	ENTER
+ 	ESC
+ 	SHIFT
+ 	TAB
+
+*Answer:  ESC is the key you would press to return to command mode.*
+
+###Question 7 of 7
+You are now ready to write the file you have been working with and exit Vim. What command would you use?
+
+ 	i
+ 	/keyword
+ 	p
+ 	:wq
+
+*Answer:  You should use the command :wq.
  
 ##Linux L8
-
 ###Question 1 of 7
 Which are system programs?
  Select three responses.
@@ -515,7 +513,6 @@ What command would you use?
 *Answer: The command you would use is kill -9 1233.*
 
 ##Linux L9 - v1
-
 ###Question: 1 of 7
 What is the purpose of the ssh command?
 
@@ -587,7 +584,6 @@ You have been asked to troubleshoot a remote server. What command would allow yo
 *Answer: The command to use would be ssh user03@computer15.*
  
 ##Linux L10
-
 ###Question 1 of 7
 Which are use cases of the ping command?  Select two responses.
 
@@ -659,7 +655,6 @@ You have determined the web server for Linuxabc.com is connected and now want to
 *Answer: The command to use is traceroute Linuxabc.com.*
 
 ##Linux L11 - v1
-
 ###Question 1 of 7
 All are primary methods of managing software in Linux operating systems EXCEPT:
 
@@ -732,7 +727,6 @@ You are using a RedHat distribution and need to use yum to install a package upd
 *Answer: The command to use would be yum update zsh.*
 
 ##Linux L12
-
 ###Question 1 of 7
 What is logging in Linux?
 
@@ -865,9 +859,7 @@ You need to see a list of your jpg files. Assuming your user name is student 02,
 
 *Answer: The command to use would be find /home/student02 -name *.jpg.*
 
-
 ##Linux L14 - v1
-
 ###Question:  1 of 7
 Which are Bash Shell features?
  Select three responses.
@@ -942,7 +934,6 @@ What command would you use?
 *Answer: The env HISTSIZE=1500 command should be used to set the number of lines stored in your history list in your bash session to 1500.*
  
 ##Linux L15
-
 ###Question 1 of 7
 Which are true statements about scripts?
  Select three responses.
